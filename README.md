@@ -5,7 +5,7 @@ Instalação
 *Todas as ferramentas utilizadas foram instaladas em ambiente Windows*
 1)	Instalar o Servidor XAMPP para Windows 10;
 2)	Inicializar o painel de controle do XAMPP e ativar as opções Apache e MySQL;
-3)	Faça o download do projeto no repositório do GitHub (www.
+3)	Faça o download do projeto no link https://drive.google.com/drive/folders/1kxplS4NL0bfLU28bl5G_xnaKkKQaLFh7?usp=sharing
 4)	Extraia a pasta do projeto (projetoinv) na pasta “Htdocs” do seu servidor Xampp, normalmente neste caminho (C:\xampp\htdocs);
 5)	Abra o navegador e digite na barra de endereços: localhost/phpmyadmin/ para abrir o gerenciador de banco de dados;
 6)	Na página do PhpMyAdmin, clique em “Databases”, no campo “Create database” coloque o nome do projeto “project_inv” e então “Create”;
